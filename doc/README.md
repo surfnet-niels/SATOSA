@@ -497,7 +497,7 @@ To produce signed SAML metadata for all SAML front- and backend modules, run the
 satosa-saml-metadata <path to proxy_conf.yaml> <path to key for signing> <path to cert for signing>
 ```
 
-Detailed usage instructions can be viewed by running `satosa-saml-metadata -h`.
+Detailed usage instructions can be viewed by running `satosa-saml-metadata --help`.
 
 # <a name="run" style="color:#000000">Start proxy application</a>
 Start the proxy server with the following command:
